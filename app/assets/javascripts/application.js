@@ -14,3 +14,12 @@
 //= require activestorage
 //= require turbolinks
 //= require_tree .
+//LIB
+//= require docs.min
+//= require theme.min
+//VENDOR
+//= require dist/jquery.min
+//= require dist/js/bootstrap.bundle.min
+//= require dist/in-view.min 
+//= require lib/highlight
+ 
