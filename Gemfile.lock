@@ -205,11 +205,8 @@ DEPENDENCIES
   capybara (>= 2.15)
   chromedriver-helper
   coffee-rails (~> 4.2)
-<<<<<<< HEAD
-  faker
-=======
   dotenv-rails
->>>>>>> d11bc7887deb1440389f289c004dba37a8ee1c15
+  faker
   jbuilder (~> 2.5)
   listen (>= 3.0.5, < 3.2)
   pg (>= 0.18, < 2.0)
